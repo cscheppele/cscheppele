@@ -32,7 +32,6 @@ I have a BA in Psychology & Spanish from Oklahoma State University.  While I nev
 - 🤔 I’m looking for help with ...
     -If you have graphic design experience or experience with 3D modeling I would love to learn, 
     -Also looking for anyone who has experience with quest related gaming.  I am looking to bring it into my own projects and hopefully into my future career.
-    -
 
 - 📫 How to reach me: ...
     -cmscheppele@gmail.com
