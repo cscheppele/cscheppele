@@ -16,7 +16,7 @@ I have a BA in Psychology & Spanish from Oklahoma State University.  While I nev
     -Redux
     -Redux ToolKit
 
-- 🔭 I’m currently working on...
+- 🔭 I’m currently working on...\n
     -Personal Website (should be up and running shortly)
     -DnDeemo - a DnD Demo to guide new DnD players through the maze that is Dungeons and Dragons rules.
     -Legend of Dragoon remaster - this is a future project while I develop the skills to do this.
