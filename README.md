@@ -5,16 +5,16 @@ I have a BA in Psychology & Spanish from Oklahoma State University.  While I nev
 - 🌍 I currently live in Barcelona, Spain but will be returning to the united States in Mid-August.  I am open to working anywhere with a good tech industry but have particular interest in Denver, Austin, or San Diego in the United States or abroad in Spain, Australia, or New Zealand.  I prefer hybrid work environments.  Having a dedicated work space and fostering connections with team members is important to me but I also enjoy the schedule flexibility and ability to have a day to yourself without extra interruptions.   
 
 
-- 🌱 My tech stack ...  <br/>
-    -JavaScript                 -Express  <br/>
-    -TypeScript                 -GraphQL  <br/>
-    -C#                         -Koa  <br/>
-    -React.js                   -MongoDB  <br/>
-    -Angular.js                 -PostgresQL  <br/>
-    -Node.js                    -Mongoose  <br/>
-    -Next.js                    
-    -Redux  <br/>
-    -Redux ToolKit
+- 🌱 My tech stack ...  
+    -JavaScript-                 -Express-  
+    -TypeScript-                 -GraphQL- 
+    -C#-                         -Koa- 
+    -React.js-                   -MongoDB- 
+    -Angular.js-                 -PostgresQL-  
+    -Node.js-                    -Mongoose- 
+    -Next.js-                    -websocket-
+    -Redux-
+    -Redux ToolKit-
 
 - 🔭 I’m currently working on...  <br/>
     -Personal Website (should be up and running shortly)  <br/>
