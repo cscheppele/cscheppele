@@ -6,11 +6,11 @@ I have a BA in Psychology & Spanish from Oklahoma State University.  While I nev
 
 
 - 🌱 My tech stack ...  
-    -JavaScript-                 -Express-  
+    -JavaScript-                 -Express- 
     -TypeScript-                 -GraphQL- 
     -C#-                         -Koa- 
     -React.js-                   -MongoDB- 
-    -Angular.js-                 -PostgresQL-  
+    -Angular.js-                 -PostgresQL- 
     -Node.js-                    -Mongoose- 
     -Next.js-                    -websocket-
     -Redux-
